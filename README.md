@@ -12,6 +12,7 @@ This repository contains scripts that can be used for inspector customization in
 - [FFmpeg Compress](./ffmpeg-compress.sh)
 - [Create DMG from application](./create-dmg-from-application.sh)
 - [Touch](./touch.sh)
+- [Encode Selected Video Files](./encode-selected-video-files.sh)
 
 ## Request a New Script
 
